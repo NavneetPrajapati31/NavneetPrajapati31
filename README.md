@@ -1,5 +1,4 @@
 # 👋 Hey, I'm Navneet!
-<br>
 ### 🚀 Full-Stack Developer | Front-End Enthusiast | Competitive Coder<br><br>I'm a CSE undergrad at NIT Surat, passionate about web development, problem-solving, and tech innovation. I enjoy building efficient, user-friendly applications and contributing to impactful projects.
 
 
